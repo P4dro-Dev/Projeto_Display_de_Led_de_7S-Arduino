@@ -1,4 +1,4 @@
-# Projeto_Display_de_Led_de_7-Segme
+# Projeto_Display_de_Led_de_7-Segm
 Projeto da Tarefa de Disciplina e Eetricidade ásica, e Eletrôia Digita
 ![Upload
 
