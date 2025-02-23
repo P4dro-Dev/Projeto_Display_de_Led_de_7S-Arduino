@@ -9,7 +9,8 @@
 
 ![Projeto_Display_de_LED_de_7_Segmentos](https://github.com/user-attachments/assets/9eec8055-4d3a-4ee0-8d12-18627fa1eed5)
 
-# 📱| Contato
+# 📧| Contato
 
-  Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
-  E-mail: 
+  📱| Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
+  
+  📩| E-mail: linkedin.profissional.ti.pedro@gmail.com
