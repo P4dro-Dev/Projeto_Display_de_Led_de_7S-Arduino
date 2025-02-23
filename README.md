@@ -4,6 +4,23 @@
 
 # 🗂️| Organização dos Arquivos do Projeto
 
+```
+Projeto_Display_de_LED-7S-Cpp/
+│
+├── src/
+│   └── main.cpp
+│
+├── images/
+│   └── diagram.png
+│
+├── docs/
+│   └── manual.pdf
+│
+├── README.md
+├── .gitignore
+└── LICENSE
+
+```
 
 # 📑| Imagens do Projeto no Tinkecard
 
