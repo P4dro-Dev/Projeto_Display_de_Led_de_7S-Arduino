@@ -1,4 +1,4 @@
-# Projeto_Display_de_Led_de_7-Segment
+# Projeto_Display_de_Led_de_7-Segmen
 Projeto da Tarefa de Disciplina de Eletricidade Básica, e Eletrôia Digita para Info
 ![Uploading Projeto_Display_de_LE
 
